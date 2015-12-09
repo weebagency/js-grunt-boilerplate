@@ -1,0 +1,25 @@
+{
+  "name": "Project name...", // change
+  "version": "1.0.0",
+  "description": "Enter description...", // change
+  "main": "index.html", // change
+  "moduleType": [],
+  "keywords": ["Angular", "Node", "Javascript"], // change
+  "authors": [
+    Cédric Maruéjol"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "angular": "~1.4.7"
+  }
+}
